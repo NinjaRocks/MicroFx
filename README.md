@@ -1,4 +1,6 @@
 # <img src="https://github.com/NinjaRocks/MicroFx/blob/master/ninja-icon-16.png" alt="ninja" style="width:30px;"/> MicroFx
+[![NuGet version](https://badge.fury.io/nu/MicroFx.svg)](https://badge.fury.io/nu/MicroFx) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NinjaRocks/MicroFx/blob/master/License.md) [![build-master](https://github.com/NinjaRocks/MicroFx/actions/workflows/master.yml/badge.svg)](https://github.com/NinjaRocks/MicroFx/actions/workflows/master.yml) [![GitHub Release](https://img.shields.io/github/v/release/ninjarocks/MicroFx?logo=github&sort=semver)](https://github.com/ninjarocks/MicroFx/releases/latest) [![.Net Stardard](https://img.shields.io/badge/.Net%20Standard-2.1-blue)](https://dotnet.microsoft.com/en-us/download/dotnet/2.1)
+
 .Net library providing `Application framework` to build .Net Application. Compatible with `Microservices` architecture.
 
 ## What is Application Framework?
