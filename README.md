@@ -6,7 +6,7 @@
 
 ### Cross cutting concerns
 Cross cutting concerns are general functionalities that are commmon and not related to application business logic. 
-> Below are some concerns
+> Below are some cross cutting application concerns
 > * Logging and tracing.
 > * Transaction management.
 > * Security.
