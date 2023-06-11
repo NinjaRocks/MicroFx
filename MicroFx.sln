@@ -16,7 +16,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{20A19668-3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroFx", "src\MicroFx\MicroFx.csproj", "{A02C1E77-E7F9-4BF5-8372-3BBCC110655B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroFx.Tests", "test\MicroFx.Tests\MicroFx.Tests.csproj", "{B1684EF5-A37A-42C3-B44E-B55DC035B322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroFx.Tests", "test\MicroFx.Tests\MicroFx.Tests.csproj", "{B1684EF5-A37A-42C3-B44E-B55DC035B322}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{067F0714-9510-425B-8C55-8BE9EDDF36EA}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\master.yml = .github\workflows\master.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A02C1E77-E7F9-4BF5-8372-3BBCC110655B} = {428C54A8-1D13-40B9-B9B7-23B52A38F92D}
 		{B1684EF5-A37A-42C3-B44E-B55DC035B322} = {20A19668-38C4-49D8-8498-96B692955072}
+		{067F0714-9510-425B-8C55-8BE9EDDF36EA} = {836E2035-43D2-4C3D-8031-D4F1E12F1748}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A8A9F502-B291-42C3-BBAA-7EAF3B394022}

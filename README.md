@@ -7,7 +7,7 @@
 > An application framework is a software library that provides a fundamental structure to support the development of applications for a specific environment. An application framework acts as the skeletal support to build an application. The intention of designing application frameworks is to lessen the cross-cutting concerns faced during the development of applications. This is achieved through the use of code that can be shared across different modules of an application.
 
 ### Cross cutting concerns
-Cross cutting concerns are general functionalities that are commmon and not related to application business logic. 
+Cross cutting concerns are requirements that are general and common across the application and not related to application's business logic. 
 > Below are some cross cutting application concerns
 > * Logging and tracing.
 > * Transaction management.
