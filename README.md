@@ -34,4 +34,11 @@ MicroFx is implemented based on clean architecture principles. Clean architectur
 >
 Visually, the levels of clean architecture are organized into an unspecified number of rings. The outer levels of the rings are lower level mechanisms and the inner, higher levels contain policies and Entities.
 
-![image](https://github.com/NinjaRocks/MicroFx/assets/6259981/dbaf2fbe-2a41-4f82-b470-03a14a2a4b3d)
+<img src="https://github.com/NinjaRocks/MicroFx/assets/6259981/b2434df6-a782-44c8-aac0-531b67ad7d6d" width="500" />
+
+
+## Using MicroFx
+
+-- coming soon.
+
+
