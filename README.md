@@ -28,7 +28,7 @@ Cross cutting concerns are requirements that are general and common across the a
 > * Managed Async processing.
 > * Thread Local Storage.
 > * Inversion of Control.
-> * Model View * (Controller, Presenter, ViewModel) Compatible.
+> * Model View * (Controller, Presenter, ViewModel) Compatibility.
 > * Many more
 
 ## Clean Architecture
