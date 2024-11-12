@@ -24,6 +24,11 @@ Cross cutting concerns are requirements that are general and common across the a
 > * Error handling.
 > * Performance monitoring.
 > * Custom business rules.
+> * Domain events
+> * Managed Async processing
+> * Thread Local Storage.
+> * Inversion of Control.
+> * many more
 
 ## Clean Architecture
 MicroFx is implemented based on clean architecture principles. Clean architecture is a software design philosophy that separates the elements of a design into ring levels. An important goal of clean architecture is to provide developers with a way to organize code in such a way that it encapsulates the business logic but keeps it separate from the delivery mechanism. 
