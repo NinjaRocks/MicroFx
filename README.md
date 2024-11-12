@@ -1,7 +1,7 @@
 # <img src="https://github.com/NinjaRocks/MicroFx/blob/master/ninja-icon-16.png" alt="ninja" style="width:30px;"/> MicroFx
 [![NuGet version](https://badge.fury.io/nu/MicroFx.svg)](https://badge.fury.io/nu/MicroFx) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NinjaRocks/MicroFx/blob/master/License.md) [![build-master](https://github.com/NinjaRocks/MicroFx/actions/workflows/master.yml/badge.svg)](https://github.com/NinjaRocks/MicroFx/actions/workflows/master.yml) [![GitHub Release](https://img.shields.io/github/v/release/ninjarocks/MicroFx?logo=github&sort=semver)](https://github.com/ninjarocks/MicroFx/releases/latest) [![.Net 8.0](https://img.shields.io/badge/.Net-8.0-blue)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
-#### Application framework library to build .Net Applications. Compatible with Microservices architecture.
+#### Application framework to build .Net Applications employing Clean Architecture. Compatible with Web, Mobile and Microservices architecture.
 
 ## What is Application Framework?
 > An application framework is a software library that provides a fundamental structure to support the development of applications for a specific environment. An application framework acts as the skeletal support to build an application. The intention of designing application frameworks is to lessen the cross-cutting concerns faced during the development of applications. This is achieved through the use of code that can be shared across different modules of an application.
@@ -24,11 +24,12 @@ Cross cutting concerns are requirements that are general and common across the a
 > * Error handling.
 > * Performance monitoring.
 > * Custom business rules.
-> * Domain events
-> * Managed Async processing
+> * Domain events.
+> * Managed Async processing.
 > * Thread Local Storage.
 > * Inversion of Control.
-> * many more
+> * Model View * (Controller, Presenter, ViewModel) Compatible.
+> * Many more
 
 ## Clean Architecture
 MicroFx is implemented based on clean architecture principles. Clean architecture is a software design philosophy that separates the elements of a design into ring levels. An important goal of clean architecture is to provide developers with a way to organize code in such a way that it encapsulates the business logic but keeps it separate from the delivery mechanism. 
